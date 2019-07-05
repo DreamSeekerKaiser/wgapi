@@ -1,1 +1,1 @@
-https://api.kaiserking.com
+https://kaiserking.com
