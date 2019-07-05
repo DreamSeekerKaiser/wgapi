@@ -1,1 +1,1 @@
-# wgapi
+https://www.kaiserking.com
