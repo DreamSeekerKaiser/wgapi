@@ -1,1 +1,1 @@
-https://kaiserking.com
+http://kaiserking.com
